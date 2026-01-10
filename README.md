@@ -59,16 +59,6 @@
 </ul>
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimashaDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimashaDev&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</p>
 
----
 
-<!-- ================= VISITOR BADGE ================= -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=DimashaDev.DimashaDev" alt="visitor badge"/>
-</p>
+
