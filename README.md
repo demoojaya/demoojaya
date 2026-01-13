@@ -7,7 +7,9 @@
 <!-- ================= CONNECT ================= -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
+  <a href="www.linkedin.com/in/
+dimasha-jayathilaka-202ab127a
+" target="_blank">LinkedIn</a> •
  <!-- <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a> •
   <a href="mailto:youremail@example.com" target="_blank">Email</a>-->
 </p>
